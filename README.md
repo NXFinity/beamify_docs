@@ -1,1 +1,1 @@
-# beamify_docs
+# Beamify Documents
